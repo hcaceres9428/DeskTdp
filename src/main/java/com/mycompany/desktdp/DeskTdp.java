@@ -1,4 +1,4 @@
-
+//Lo logre
 package com.mycompany.desktdp;
 
 import com.mycompany.desktdp.modelo.controlador.Conexion;
